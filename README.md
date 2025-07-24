@@ -84,19 +84,6 @@ magazam/
    flutter run
    ```
 
-## 📱 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Customer Management
-![Customers](screenshots/customers.png)
-
-### Stock Management
-![Stock](screenshots/stock.png)
-
-### Invoice Creation
-![Invoice](screenshots/invoice.png)
 
 ## 🛠️ Technologies Used
 
